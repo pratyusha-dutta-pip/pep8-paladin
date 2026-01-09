@@ -1,2 +1,2 @@
 # pep8-paladin
-I’m a novice explorer here, armed with nothing but curiosity.
+I’m a novice explorer here, armed with nothing but curiosity...
